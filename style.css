@@ -23,5 +23,5 @@
 }
 
 .field:hover .ball {
-    transform: translate(550px, -100px);
+    transform: translate(550px, -120px);
 }
